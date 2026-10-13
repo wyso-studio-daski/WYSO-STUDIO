@@ -19,8 +19,8 @@
  "inline_css": "",
  "page": "Studio",
  "url": "/-agenzia-marketing-bergamo-studio",
- "css": "studio.3ac2a0ff.css",
+ "css": "studio.a8035aeb.css",
  "js": "studio.eb7b30b3.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/studio.3ac2a0ff.css\">",
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/studio.a8035aeb.css\">",
  "footer": "<script src=\"{CODE}/js/studio.eb7b30b3.js\" defer></script>"
 }

@@ -19,8 +19,8 @@
  "inline_css": "",
  "page": "Progetto-Carpani",
  "url": "/progetti/sviluppo-sito-ecommerce-agenzia-bergamo-carpani-sci",
- "css": "progetto-carpani.2eb1b84f.css",
+ "css": "progetto-carpani.0f9da0c5.css",
  "js": "progetto-carpani.dc881199.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/progetto-carpani.2eb1b84f.css\">",
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/progetto-carpani.0f9da0c5.css\">",
  "footer": "<script src=\"{CODE}/js/progetto-carpani.dc881199.js\" defer></script>"
 }

@@ -15,8 +15,8 @@
  "inline_css": "",
  "page": "Contatti",
  "url": "/contatti",
- "css": "contatti.68bd9cf9.css",
+ "css": "contatti.56cedcd8.css",
  "js": "contatti.a00feda0.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/contatti.68bd9cf9.css\">",
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/contatti.56cedcd8.css\">",
  "footer": "<script src=\"{CODE}/js/contatti.a00feda0.js\" defer></script>"
 }

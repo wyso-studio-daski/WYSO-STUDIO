@@ -19,8 +19,8 @@
  "inline_css": ".wy.wy{--ca:#FF286E}",
  "page": "Progetto-Giro",
  "url": "/progetti/giro-italia-afonso-eulalio-sci-grafica",
- "css": "progetto.be5b39c9.css",
+ "css": "progetto.e15fa200.css",
  "js": "progetto.384f5735.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/progetto.be5b39c9.css\">\n<style>.wy.wy{--ca:#FF286E}</style>",
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/progetto.e15fa200.css\">\n<style>.wy.wy{--ca:#FF286E}</style>",
  "footer": "<script src=\"{CODE}/js/progetto.384f5735.js\" defer></script>"
 }

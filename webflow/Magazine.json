@@ -19,8 +19,8 @@
  "inline_css": "",
  "page": "Magazine",
  "url": "/agenzia-comunicazione-bergamo-blog",
- "css": "magazine.34bc82d0.css",
+ "css": "magazine.ed283423.css",
  "js": "magazine.48311569.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/magazine.34bc82d0.css\">",
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/magazine.ed283423.css\">",
  "footer": "<script src=\"{CODE}/js/magazine.48311569.js\" defer></script>"
 }
