@@ -19,8 +19,8 @@
  "inline_css": "",
  "page": "Progetto-Marketplace",
  "url": "/progetti/brand-gestione-marketplace-digital-agenzia-comunicazione-wyso",
- "css": "progetto.baf2a2f2.css",
+ "css": "progetto.be5b39c9.css",
  "js": "progetto.384f5735.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/WYSO-STUDIO@fb3e0f9701423e519f58ab1e3320a450a70623be/css/progetto.baf2a2f2.css\">",
- "footer": "<script src=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/WYSO-STUDIO@fb3e0f9701423e519f58ab1e3320a450a70623be/js/progetto.384f5735.js\" defer></script>"
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/progetto.be5b39c9.css\">",
+ "footer": "<script src=\"{CODE}/js/progetto.384f5735.js\" defer></script>"
 }

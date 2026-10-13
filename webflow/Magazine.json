@@ -19,8 +19,8 @@
  "inline_css": "",
  "page": "Magazine",
  "url": "/agenzia-comunicazione-bergamo-blog",
- "css": "magazine.d199f09f.css",
+ "css": "magazine.34bc82d0.css",
  "js": "magazine.48311569.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/WYSO-STUDIO@fb3e0f9701423e519f58ab1e3320a450a70623be/css/magazine.d199f09f.css\">",
- "footer": "<script src=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/WYSO-STUDIO@fb3e0f9701423e519f58ab1e3320a450a70623be/js/magazine.48311569.js\" defer></script>"
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/magazine.34bc82d0.css\">",
+ "footer": "<script src=\"{CODE}/js/magazine.48311569.js\" defer></script>"
 }

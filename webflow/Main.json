@@ -11,12 +11,12 @@
   ]
  ],
  "intro": false,
- "embeds": 6,
+ "embeds": 5,
  "inline_css": "",
  "page": "Main",
  "url": "/",
- "css": "main.b4eaaa56.css",
+ "css": "main.eb3a42a5.css",
  "js": "main.b6643217.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/WYSO-STUDIO@fb3e0f9701423e519f58ab1e3320a450a70623be/css/main.b4eaaa56.css\">",
- "footer": "<script src=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/WYSO-STUDIO@fb3e0f9701423e519f58ab1e3320a450a70623be/js/main.b6643217.js\" defer></script>"
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/main.eb3a42a5.css\">",
+ "footer": "<script src=\"{CODE}/js/main.b6643217.js\" defer></script>"
 }

@@ -19,8 +19,8 @@
  "inline_css": ".wy.wy{--ca:#C4507E}",
  "page": "Progetto-Ciglia",
  "url": "/progetti/e-commerce-beauty-le-ciglia-di-andrea",
- "css": "progetto.baf2a2f2.css",
+ "css": "progetto.be5b39c9.css",
  "js": "progetto.384f5735.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/WYSO-STUDIO@fb3e0f9701423e519f58ab1e3320a450a70623be/css/progetto.baf2a2f2.css\">\n<style>.wy.wy{--ca:#C4507E}</style>",
- "footer": "<script src=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/WYSO-STUDIO@fb3e0f9701423e519f58ab1e3320a450a70623be/js/progetto.384f5735.js\" defer></script>"
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/progetto.be5b39c9.css\">\n<style>.wy.wy{--ca:#C4507E}</style>",
+ "footer": "<script src=\"{CODE}/js/progetto.384f5735.js\" defer></script>"
 }

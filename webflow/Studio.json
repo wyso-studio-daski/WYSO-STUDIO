@@ -19,8 +19,8 @@
  "inline_css": "",
  "page": "Studio",
  "url": "/-agenzia-marketing-bergamo-studio",
- "css": "studio.9adc1030.css",
+ "css": "studio.3ac2a0ff.css",
  "js": "studio.eb7b30b3.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/WYSO-STUDIO@fb3e0f9701423e519f58ab1e3320a450a70623be/css/studio.9adc1030.css\">",
- "footer": "<script src=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/WYSO-STUDIO@fb3e0f9701423e519f58ab1e3320a450a70623be/js/studio.eb7b30b3.js\" defer></script>"
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/studio.3ac2a0ff.css\">",
+ "footer": "<script src=\"{CODE}/js/studio.eb7b30b3.js\" defer></script>"
 }
