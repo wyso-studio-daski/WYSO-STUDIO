@@ -47,7 +47,7 @@
  "page": "Contatti",
  "url": "/contatti",
  "css": "contatti.689ba867.css",
- "js": "contatti.cc938053.js",
+ "js": "contatti.7498f8e2.js",
  "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/contatti.689ba867.css\">",
- "footer": "<script src=\"{CODE}/js/contatti.cc938053.js\" defer></script>"
+ "footer": "<script src=\"{CODE}/js/contatti.7498f8e2.js\" defer></script>"
 }

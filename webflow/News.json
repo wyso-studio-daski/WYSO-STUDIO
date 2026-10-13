@@ -27,6 +27,59 @@
      "direction": "descending"
     }
    ],
+   "item": {
+    "link": [
+     [
+      "data-wy-class",
+      "nx"
+     ],
+     [
+      "data-cursor",
+      "Leggi"
+     ]
+    ],
+    "natives": [
+     {
+      "kind": "text",
+      "tag": "span",
+      "field": "categoria",
+      "fmt": null,
+      "fill": "nx-1",
+      "field_id": "178231c26cf920cd8e073e5446443819"
+     },
+     {
+      "kind": "text",
+      "tag": "span",
+      "field": "date",
+      "fmt": null,
+      "fill": "nx-2",
+      "field_id": "7acdf4155b780d3329d9430e57f7ca75"
+     },
+     {
+      "kind": "text",
+      "tag": "span",
+      "field": "name",
+      "fmt": null,
+      "fill": "nx-3",
+      "field_id": "09758a65cb65c412c81216e5eca813a1"
+     },
+     {
+      "kind": "text",
+      "tag": "span",
+      "field": "post-summary",
+      "fmt": null,
+      "fill": "nx-4",
+      "field_id": "6696534059941c0ea160761c8f96245b"
+     },
+     {
+      "kind": "image",
+      "tag": "img",
+      "field": "main-image",
+      "fill": "nx-5",
+      "field_id": "0e5ae5c65b4c426bb40b5044ca5c8553"
+     }
+    ]
+   },
    "after_embed": 1,
    "embeds": [
     "list-nx"
@@ -38,6 +91,77 @@
    "field": "post-body",
    "after_embed": 1,
    "embeds": []
+  },
+  {
+   "kind": "text",
+   "tag": "span",
+   "field": "categoria",
+   "fmt": null,
+   "fill": "f-1",
+   "type": "field",
+   "slot": "f-1",
+   "field_id": "178231c26cf920cd8e073e5446443819",
+   "after_embed": 1,
+   "embeds": []
+  },
+  {
+   "kind": "text",
+   "tag": "span",
+   "field": "date",
+   "fmt": null,
+   "fill": "f-2",
+   "type": "field",
+   "slot": "f-2",
+   "field_id": "7acdf4155b780d3329d9430e57f7ca75",
+   "after_embed": 1,
+   "embeds": []
+  },
+  {
+   "kind": "text",
+   "tag": "span",
+   "field": "minuti-di-lettura",
+   "fmt": null,
+   "fill": "f-3",
+   "type": "field",
+   "slot": "f-3",
+   "field_id": "adb3b1f296beee3959292b9e402eb26c",
+   "after_embed": 1,
+   "embeds": []
+  },
+  {
+   "kind": "text",
+   "tag": "h1",
+   "field": "name",
+   "fmt": null,
+   "fill": "f-4",
+   "type": "field",
+   "slot": "f-4",
+   "field_id": "09758a65cb65c412c81216e5eca813a1",
+   "after_embed": 1,
+   "embeds": []
+  },
+  {
+   "kind": "text",
+   "tag": "p",
+   "field": "post-summary",
+   "fmt": null,
+   "fill": "f-5",
+   "type": "field",
+   "slot": "f-5",
+   "field_id": "6696534059941c0ea160761c8f96245b",
+   "after_embed": 1,
+   "embeds": []
+  },
+  {
+   "kind": "image",
+   "tag": "img",
+   "field": "main-image",
+   "fill": "f-6",
+   "type": "field",
+   "slot": "f-6",
+   "field_id": "0e5ae5c65b4c426bb40b5044ca5c8553",
+   "after_embed": 1,
+   "embeds": []
   }
  ],
  "cms": "6ace6d468d0eb3900f33a048",
@@ -45,7 +169,7 @@
  "page": "News",
  "url": "/novita-marketing-aggiornamenti-agenzia-web/marketing-automation-strategie-best-practices",
  "css": "news.6e5147ef.css",
- "js": "news.bfb58e60.js",
+ "js": "news.2c7f3ffa.js",
  "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/news.6e5147ef.css\">",
- "footer": "<script src=\"{CODE}/js/news.bfb58e60.js\" defer></script>"
+ "footer": "<script src=\"{CODE}/js/news.2c7f3ffa.js\" defer></script>"
 }

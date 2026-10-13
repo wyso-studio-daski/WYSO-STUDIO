@@ -56,6 +56,75 @@
      "direction": "descending"
     }
    ],
+   "item": {
+    "link": [
+     [
+      "data-wy-class",
+      "ar"
+     ],
+     [
+      "data-cursor",
+      "Leggi"
+     ]
+    ],
+    "natives": [
+     {
+      "kind": "text",
+      "tag": "span",
+      "field": "categoria",
+      "fmt": null,
+      "fill": "ar-1",
+      "field_id": "178231c26cf920cd8e073e5446443819"
+     },
+     {
+      "kind": "text",
+      "tag": "span",
+      "field": "categoria",
+      "fmt": null,
+      "fill": "ar-2",
+      "field_id": "178231c26cf920cd8e073e5446443819"
+     },
+     {
+      "kind": "text",
+      "tag": "span",
+      "field": "date",
+      "fmt": null,
+      "fill": "ar-3",
+      "field_id": "7acdf4155b780d3329d9430e57f7ca75"
+     },
+     {
+      "kind": "text",
+      "tag": "span",
+      "field": "minuti-di-lettura",
+      "fmt": null,
+      "fill": "ar-4",
+      "field_id": "adb3b1f296beee3959292b9e402eb26c"
+     },
+     {
+      "kind": "text",
+      "tag": "h2",
+      "field": "name",
+      "fmt": null,
+      "fill": "ar-5",
+      "field_id": "09758a65cb65c412c81216e5eca813a1"
+     },
+     {
+      "kind": "text",
+      "tag": "p",
+      "field": "post-summary",
+      "fmt": null,
+      "fill": "ar-6",
+      "field_id": "6696534059941c0ea160761c8f96245b"
+     },
+     {
+      "kind": "image",
+      "tag": "img",
+      "field": "main-image",
+      "fill": "ar-7",
+      "field_id": "0e5ae5c65b4c426bb40b5044ca5c8553"
+     }
+    ]
+   },
    "after_embed": 1,
    "embeds": [
     "list-ar"
@@ -65,8 +134,8 @@
  "inline_css": "",
  "page": "Magazine",
  "url": "/agenzia-comunicazione-bergamo-blog",
- "css": "magazine.2a1b10f6.css",
- "js": "magazine.e672e70c.js",
- "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/magazine.2a1b10f6.css\">",
- "footer": "<script src=\"{CODE}/js/magazine.e672e70c.js\" defer></script>"
+ "css": "magazine.b38cc5de.css",
+ "js": "magazine.439737a2.js",
+ "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/magazine.b38cc5de.css\">",
+ "footer": "<script src=\"{CODE}/js/magazine.439737a2.js\" defer></script>"
 }
