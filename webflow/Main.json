@@ -11,12 +11,12 @@
   ]
  ],
  "intro": false,
- "embeds": 5,
+ "embeds": 4,
  "inline_css": "",
  "page": "Main",
  "url": "/",
  "css": "main.5a034734.css",
- "js": "main.b6643217.js",
+ "js": "main.25d0ad2e.js",
  "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/main.5a034734.css\">",
- "footer": "<script src=\"{CODE}/js/main.b6643217.js\" defer></script>"
+ "footer": "<script src=\"{CODE}/js/main.25d0ad2e.js\" defer></script>"
 }
