@@ -15,8 +15,8 @@
  "inline_css": "",
  "page": "Main",
  "url": "/",
- "css": "main.5a034734.css",
- "js": "main.d02529b4.js",
- "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/main.5a034734.css\">",
- "footer": "<script src=\"{CODE}/js/main.d02529b4.js\" defer></script>"
+ "css": "main.a57fa372.css",
+ "js": "main.6b943926.js",
+ "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/main.a57fa372.css\">",
+ "footer": "<script src=\"{CODE}/js/main.6b943926.js\" defer></script>"
 }

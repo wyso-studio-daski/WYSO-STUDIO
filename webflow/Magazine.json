@@ -16,11 +16,57 @@
  ],
  "intro": true,
  "embeds": 1,
+ "natives": [
+  {
+   "type": "form",
+   "slot": "nl",
+   "name": "Newsletter",
+   "attrs": [
+    [
+     "data-wy-b-class",
+     "nlf {{nlErrCls}}"
+    ],
+    [
+     "data-wy-nlf",
+     "1"
+    ],
+    [
+     "novalidate",
+     ""
+    ],
+    [
+     "data-wy-on",
+     "submit:nlSubmit"
+    ]
+   ],
+   "after_embed": 1,
+   "embeds": [
+    "nl-done",
+    "nl-fail",
+    "nl-fields"
+   ]
+  },
+  {
+   "type": "list",
+   "slot": "ar",
+   "collection": "6ace6d468d0eb3900f33a048",
+   "sort": [
+    {
+     "fieldSlug": "date",
+     "direction": "descending"
+    }
+   ],
+   "after_embed": 1,
+   "embeds": [
+    "list-ar"
+   ]
+  }
+ ],
  "inline_css": "",
  "page": "Magazine",
  "url": "/agenzia-comunicazione-bergamo-blog",
- "css": "magazine.ed283423.css",
- "js": "magazine.3cd25731.js",
- "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/magazine.ed283423.css\">",
- "footer": "<script src=\"{CODE}/js/magazine.3cd25731.js\" defer></script>"
+ "css": "magazine.2a1b10f6.css",
+ "js": "magazine.e672e70c.js",
+ "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/magazine.2a1b10f6.css\">",
+ "footer": "<script src=\"{CODE}/js/magazine.e672e70c.js\" defer></script>"
 }

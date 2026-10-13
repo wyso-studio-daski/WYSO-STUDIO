@@ -12,38 +12,42 @@
  ],
  "intro": true,
  "embeds": 1,
- "form": {
-  "slot": "cf",
-  "after_embed": 1,
-  "attrs": [
-   [
-    "data-wy-b-class",
-    "cf {{errCls}}"
+ "natives": [
+  {
+   "type": "form",
+   "slot": "cf",
+   "name": "Email Form",
+   "attrs": [
+    [
+     "data-wy-b-class",
+     "cf {{errCls}}"
+    ],
+    [
+     "data-wy-cf",
+     "1"
+    ],
+    [
+     "novalidate",
+     ""
+    ],
+    [
+     "data-wy-on",
+     "submit:cfSubmit"
+    ]
    ],
-   [
-    "data-wy-cf",
-    "1"
-   ],
-   [
-    "novalidate",
-    ""
-   ],
-   [
-    "data-wy-on",
-    "submit:cfSubmit"
+   "after_embed": 1,
+   "embeds": [
+    "form-done",
+    "form-fail",
+    "form-fields"
    ]
-  ],
-  "embeds": [
-   "form-fields",
-   "form-done",
-   "form-fail"
-  ]
- },
+  }
+ ],
  "inline_css": "",
  "page": "Contatti",
  "url": "/contatti",
- "css": "contatti.3d8c0f21.css",
- "js": "contatti.323d2322.js",
- "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/contatti.3d8c0f21.css\">",
- "footer": "<script src=\"{CODE}/js/contatti.323d2322.js\" defer></script>"
+ "css": "contatti.689ba867.css",
+ "js": "contatti.cc938053.js",
+ "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/contatti.689ba867.css\">",
+ "footer": "<script src=\"{CODE}/js/contatti.cc938053.js\" defer></script>"
 }

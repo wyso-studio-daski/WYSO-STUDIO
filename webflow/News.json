@@ -1,0 +1,51 @@
+{
+ "title": "WYSO Magazine · Articolo",
+ "attrs": [
+  [
+   "data-wy-root",
+   "1"
+  ],
+  [
+   "data-wy-on",
+   "pointermove:onMove pointerleave:onLeave"
+  ],
+  [
+   "data-wy-nav",
+   "/agenzia-comunicazione-bergamo-blog"
+  ]
+ ],
+ "intro": true,
+ "embeds": 1,
+ "natives": [
+  {
+   "type": "list",
+   "slot": "nx",
+   "collection": "6ace6d468d0eb3900f33a048",
+   "sort": [
+    {
+     "fieldSlug": "date",
+     "direction": "descending"
+    }
+   ],
+   "after_embed": 1,
+   "embeds": [
+    "list-nx"
+   ]
+  },
+  {
+   "type": "rich",
+   "slot": "rich-post-body",
+   "field": "post-body",
+   "after_embed": 1,
+   "embeds": []
+  }
+ ],
+ "cms": "6ace6d468d0eb3900f33a048",
+ "inline_css": "",
+ "page": "News",
+ "url": "/novita-marketing-aggiornamenti-agenzia-web/marketing-automation-strategie-best-practices",
+ "css": "news.6e5147ef.css",
+ "js": "news.bfb58e60.js",
+ "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/news.6e5147ef.css\">",
+ "footer": "<script src=\"{CODE}/js/news.bfb58e60.js\" defer></script>"
+}

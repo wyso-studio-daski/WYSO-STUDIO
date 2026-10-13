@@ -19,8 +19,8 @@
  "inline_css": ".wy.wy{--ca:#FF286E}",
  "page": "Progetto-Giro",
  "url": "/progetti/giro-italia-afonso-eulalio-sci-grafica",
- "css": "progetto.e15fa200.css",
- "js": "progetto.fbeba41a.js",
- "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/progetto.e15fa200.css\">\n<style>.wy.wy{--ca:#FF286E}</style>",
- "footer": "<script src=\"{CODE}/js/progetto.fbeba41a.js\" defer></script>"
+ "css": "progetto.a2e47d4d.css",
+ "js": "progetto.71df525d.js",
+ "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/progetto.a2e47d4d.css\">\n<style>.wy.wy{--ca:#FF286E}</style>",
+ "footer": "<script src=\"{CODE}/js/progetto.71df525d.js\" defer></script>"
 }
