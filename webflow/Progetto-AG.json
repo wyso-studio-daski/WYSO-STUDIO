@@ -1,0 +1,26 @@
+{
+ "title": "WYSO Studio · Case study Amigassi Immobiliare",
+ "attrs": [
+  [
+   "data-wy-root",
+   "1"
+  ],
+  [
+   "data-wy-on",
+   "pointermove:onMove pointerleave:onLeave"
+  ],
+  [
+   "data-wy-nav",
+   "/web-agency-progetti-digitali"
+  ]
+ ],
+ "intro": true,
+ "embeds": 1,
+ "inline_css": ".wy.wy{--ca:#1F5A8C}",
+ "page": "Progetto-AG",
+ "url": "/progetti/social-media-gestione-profilo-aziendale-agenzia-wyso-studio",
+ "css": "progetto.baf2a2f2.css",
+ "js": "progetto.384f5735.js",
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/wyso-studio@1.0.0/css/progetto.baf2a2f2.css\">\n<style>.wy.wy{--ca:#1F5A8C}</style>",
+ "footer": "<script src=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/wyso-studio@1.0.0/js/progetto.384f5735.js\" defer></script>"
+}

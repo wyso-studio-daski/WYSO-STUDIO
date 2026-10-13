@@ -1,0 +1,26 @@
+{
+ "title": "WYSO Studio · Magazine",
+ "attrs": [
+  [
+   "data-wy-root",
+   "1"
+  ],
+  [
+   "data-wy-on",
+   "pointermove:onMove pointerleave:onLeave"
+  ],
+  [
+   "data-wy-nav",
+   "/agenzia-comunicazione-bergamo-blog"
+  ]
+ ],
+ "intro": true,
+ "embeds": 1,
+ "inline_css": "",
+ "page": "Magazine",
+ "url": "/agenzia-comunicazione-bergamo-blog",
+ "css": "magazine.d199f09f.css",
+ "js": "magazine.48311569.js",
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/wyso-studio@1.0.0/css/magazine.d199f09f.css\">",
+ "footer": "<script src=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/wyso-studio@1.0.0/js/magazine.48311569.js\" defer></script>"
+}

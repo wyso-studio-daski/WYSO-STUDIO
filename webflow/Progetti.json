@@ -1,0 +1,26 @@
+{
+ "title": "WYSO Studio · Progetti",
+ "attrs": [
+  [
+   "data-wy-root",
+   "1"
+  ],
+  [
+   "data-wy-on",
+   "pointermove:onMove pointerleave:onLeave"
+  ],
+  [
+   "data-wy-nav",
+   "/web-agency-progetti-digitali"
+  ]
+ ],
+ "intro": true,
+ "embeds": 3,
+ "inline_css": "",
+ "page": "Progetti",
+ "url": "/web-agency-progetti-digitali",
+ "css": "progetti.3bd07b15.css",
+ "js": "progetti.4ea1b828.js",
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/wyso-studio@1.0.0/css/progetti.3bd07b15.css\">",
+ "footer": "<script src=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/wyso-studio@1.0.0/js/progetti.4ea1b828.js\" defer></script>"
+}

@@ -1,0 +1,22 @@
+{
+ "title": "WYSO Studio · Contatti",
+ "attrs": [
+  [
+   "data-wy-root",
+   "1"
+  ],
+  [
+   "data-wy-on",
+   "pointermove:onMove pointerleave:onLeave"
+  ]
+ ],
+ "intro": true,
+ "embeds": 2,
+ "inline_css": "",
+ "page": "Contatti",
+ "url": "/contatti",
+ "css": "contatti.a9307218.css",
+ "js": "contatti.a00feda0.js",
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/wyso-studio@1.0.0/css/contatti.a9307218.css\">",
+ "footer": "<script src=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/wyso-studio@1.0.0/js/contatti.a00feda0.js\" defer></script>"
+}

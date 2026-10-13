@@ -1,0 +1,26 @@
+{
+ "title": "WYSO Studio · Case study Carpani Sci",
+ "attrs": [
+  [
+   "data-wy-root",
+   "1"
+  ],
+  [
+   "data-wy-on",
+   "pointermove:onMove pointerleave:onLeave"
+  ],
+  [
+   "data-wy-nav",
+   "/web-agency-progetti-digitali"
+  ]
+ ],
+ "intro": true,
+ "embeds": 2,
+ "inline_css": "",
+ "page": "Progetto-Carpani",
+ "url": "/progetti/sviluppo-sito-ecommerce-agenzia-bergamo-carpani-sci",
+ "css": "progetto-carpani.60c61541.css",
+ "js": "progetto-carpani.dc881199.js",
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/wyso-studio@1.0.0/css/progetto-carpani.60c61541.css\">",
+ "footer": "<script src=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/wyso-studio@1.0.0/js/progetto-carpani.dc881199.js\" defer></script>"
+}

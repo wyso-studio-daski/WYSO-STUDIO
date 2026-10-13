@@ -1,0 +1,26 @@
+{
+ "title": "WYSO Magazine · Marketing automation",
+ "attrs": [
+  [
+   "data-wy-root",
+   "1"
+  ],
+  [
+   "data-wy-on",
+   "pointermove:onMove pointerleave:onLeave"
+  ],
+  [
+   "data-wy-nav",
+   "/agenzia-comunicazione-bergamo-blog"
+  ]
+ ],
+ "intro": true,
+ "embeds": 1,
+ "inline_css": "",
+ "page": "Articolo",
+ "url": "/novita-marketing-aggiornamenti-agenzia-web/marketing-automation",
+ "css": "articolo.77889d55.css",
+ "js": "articolo.3289b8f3.js",
+ "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/wyso-studio@1.0.0/css/articolo.77889d55.css\">",
+ "footer": "<script src=\"https://cdn.jsdelivr.net/gh/wyso-studio-daski/wyso-studio@1.0.0/js/articolo.3289b8f3.js\" defer></script>"
+}
