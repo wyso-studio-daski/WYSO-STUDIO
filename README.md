@@ -2,7 +2,7 @@
 
 Stile, script, immagini e video del sito **wyso.it** (Webflow).
 Sono serviti dal CDN jsDelivr con l'indirizzo
-`https://cdn.jsdelivr.net/gh/wyso-studio-daski/wyso-studio@<versione>/...`
+`https://cdn.jsdelivr.net/gh/wyso-studio-daski/WYSO-STUDIO@<commit>/...`
 
 - `css/`, `js/` — stile e script di ogni pagina (il nome contiene un'impronta: ogni modifica crea un file nuovo)
 - `assets/` — immagini e video
@@ -11,4 +11,4 @@ Sono serviti dal CDN jsDelivr con l'indirizzo
 - `pages/` — ogni pagina completa in un solo file, come copia di riferimento
 
 Non rinominare né spostare i file: il sito li richiama per nome.
-Ogni versione pubblicata ha un tag (`1.0.0`, `1.0.1`, …) e resta disponibile anche dopo gli aggiornamenti.
+Il sito richiama ogni file fissato al commit in cui è stato pubblicato: le versioni precedenti restano disponibili anche dopo gli aggiornamenti.
