@@ -24,7 +24,8 @@ Note
   Webflow applica un redirect solo se al vecchio percorso non c'è più una pagina.
 
 ## Sequenza
-1. Cartella Pagine "Progetti" (slug progetti) + 16 pagine case study.
+1. Le 16 pagine case study sono create sulla copia (per ora alla radice, es. /sviluppo-sito-ecommerce-agenzia-bergamo-carpani-sci).
+   Manca la cartella Pagine "Progetti" (slug progetti): appena esiste, le pagine si spostano dentro e diventano /progetti/<slug>.
 2. Test modulo Contatti e newsletter (Forms + notifiche email).
 3. Redirect qui sopra.
 4. Piano di hosting e dominio wyso.it spostati sulla copia.
