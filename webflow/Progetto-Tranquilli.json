@@ -20,7 +20,7 @@
  "page": "Progetto-Tranquilli",
  "url": "/progetti/sviluppo-siti-web-ecommerce-bergamo-agenzia-wyso",
  "css": "progetto.e15fa200.css",
- "js": "progetto.af440e57.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/progetto.e15fa200.css\">",
- "footer": "<script src=\"{CODE}/js/progetto.af440e57.js\" defer></script>"
+ "js": "progetto.fbeba41a.js",
+ "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/progetto.e15fa200.css\">",
+ "footer": "<script src=\"{CODE}/js/progetto.fbeba41a.js\" defer></script>"
 }

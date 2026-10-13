@@ -20,7 +20,7 @@
  "page": "Articolo",
  "url": "/novita-marketing-aggiornamenti-agenzia-web/marketing-automation",
  "css": "articolo.634f951b.css",
- "js": "articolo.62bc2198.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/articolo.634f951b.css\">",
- "footer": "<script src=\"{CODE}/js/articolo.62bc2198.js\" defer></script>"
+ "js": "articolo.39dc9d84.js",
+ "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/articolo.634f951b.css\">",
+ "footer": "<script src=\"{CODE}/js/articolo.39dc9d84.js\" defer></script>"
 }

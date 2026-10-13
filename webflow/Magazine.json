@@ -20,7 +20,7 @@
  "page": "Magazine",
  "url": "/agenzia-comunicazione-bergamo-blog",
  "css": "magazine.ed283423.css",
- "js": "magazine.da852c8e.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/magazine.ed283423.css\">",
- "footer": "<script src=\"{CODE}/js/magazine.da852c8e.js\" defer></script>"
+ "js": "magazine.3cd25731.js",
+ "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/magazine.ed283423.css\">",
+ "footer": "<script src=\"{CODE}/js/magazine.3cd25731.js\" defer></script>"
 }

@@ -1,0 +1,21 @@
+<div class="fi"><input id="cf-nome" data-wy-cfn="1" type="text" name="Name" autocomplete="organization" placeholder=" " required><label for="cf-nome">Nome attività *</label></div>
+<div class="fi"><input id="cf-mail" data-wy-cfm="1" type="email" name="Email" autocomplete="email" placeholder=" " required><label for="cf-mail">Email *</label></div>
+<div style="display: flex; flex-direction: column; gap: 14px">
+<p class="lab muted" style="margin: 0">Di cosa hai bisogno?</p>
+<div style="display: flex; flex-wrap: wrap; gap: 8px" role="group" aria-label="Servizi di interesse">
+<span class="chip" role="button" tabindex="0" aria-pressed="false" data-wy-on="click:cfChip keydown:cfChipKey">Branding</span>
+<span class="chip" role="button" tabindex="0" aria-pressed="false" data-wy-on="click:cfChip keydown:cfChipKey">Social &amp; ADV</span>
+<span class="chip" role="button" tabindex="0" aria-pressed="false" data-wy-on="click:cfChip keydown:cfChipKey">Siti &amp; e-commerce</span>
+<span class="chip" role="button" tabindex="0" aria-pressed="false" data-wy-on="click:cfChip keydown:cfChipKey">Sviluppo app</span>
+<span class="chip" role="button" tabindex="0" aria-pressed="false" data-wy-on="click:cfChip keydown:cfChipKey">Marketing automation</span>
+<span class="chip" role="button" tabindex="0" aria-pressed="false" data-wy-on="click:cfChip keydown:cfChipKey">Graphic design</span>
+</div>
+<input type="hidden" name="Servizi" value="" data-wy-cfs="1">
+</div>
+<div class="fi"><textarea id="cf-msg" data-wy-cfmsg="1" name="Message" rows="4" placeholder=" " required></textarea><label for="cf-msg">Scrivi qui il tuo messaggio *</label></div>
+<label class="ck"><input type="checkbox" name="Check Privacy Policy" data-wy-cfp="1" required><span>* Dichiaro di aver letto e accettato la <a href="https://www.wyso.it/privacy-policy" style="text-decoration: underline">Privacy Policy</a></span></label>
+<label class="ck"><input type="checkbox" name="Iscrizione newsletter"><span>Desidero iscrivermi anche alla newsletter e ricevere informazioni sull'attività e sulle iniziative di WYSO Studio</span></label>
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px 24px">
+<button type="submit" class="btn btn-ink" style="min-height: 62px; padding: 0 40px" data-wy-on="pointermove:mag pointerenter:btnIn pointerleave:btnOut">Invia<svg class="arr" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="M13 6l6 6-6 6"></path></svg></button>
+<p class="lab" role="alert" style="margin: 0; color: var(--accent)"><span data-wy-bt="{{err}}"></span></p>
+</div>

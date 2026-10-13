@@ -20,7 +20,7 @@
  "page": "Servizi",
  "url": "/servizi",
  "css": "servizi.4fceecb8.css",
- "js": "servizi.90dad45c.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/servizi.4fceecb8.css\">",
- "footer": "<script src=\"{CODE}/js/servizi.90dad45c.js\" defer></script>"
+ "js": "servizi.7c73d6fb.js",
+ "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/servizi.4fceecb8.css\">",
+ "footer": "<script src=\"{CODE}/js/servizi.7c73d6fb.js\" defer></script>"
 }

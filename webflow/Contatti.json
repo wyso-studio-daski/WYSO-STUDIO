@@ -11,12 +11,39 @@
   ]
  ],
  "intro": true,
- "embeds": 2,
+ "embeds": 1,
+ "form": {
+  "slot": "cf",
+  "after_embed": 1,
+  "attrs": [
+   [
+    "data-wy-b-class",
+    "cf {{errCls}}"
+   ],
+   [
+    "data-wy-cf",
+    "1"
+   ],
+   [
+    "novalidate",
+    ""
+   ],
+   [
+    "data-wy-on",
+    "submit:cfSubmit"
+   ]
+  ],
+  "embeds": [
+   "form-fields",
+   "form-done",
+   "form-fail"
+  ]
+ },
  "inline_css": "",
  "page": "Contatti",
  "url": "/contatti",
- "css": "contatti.56cedcd8.css",
- "js": "contatti.bbd51bd0.js",
- "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/contatti.56cedcd8.css\">",
- "footer": "<script src=\"{CODE}/js/contatti.bbd51bd0.js\" defer></script>"
+ "css": "contatti.3d8c0f21.css",
+ "js": "contatti.323d2322.js",
+ "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/contatti.3d8c0f21.css\">",
+ "footer": "<script src=\"{CODE}/js/contatti.323d2322.js\" defer></script>"
 }
