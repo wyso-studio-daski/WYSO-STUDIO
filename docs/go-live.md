@@ -1,5 +1,7 @@
 # Messa online del nuovo sito WYSO
 
+Online su wyso.it e www.wyso.it dal 14 ottobre 2026 (piano trasferito sulla copia, vecchio sito "WYSO WEBSITE" tenuto come archivio).
+
 Copia di staging: "Copy of WYSO WEBSITE" (6ace6d468d0eb3900f33a04f)
 https://wyso-studio-site-6294e71603a82cf9923015.webflow.io
 
