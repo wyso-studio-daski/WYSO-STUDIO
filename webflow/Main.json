@@ -16,7 +16,7 @@
  "page": "Main",
  "url": "/",
  "css": "main.a57fa372.css",
- "js": "main.486390be.js",
+ "js": "main.3999fba8.js",
  "head": "<link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap\">\n<link rel=\"stylesheet\" href=\"{CODE}/css/main.a57fa372.css\">",
- "footer": "<script>window.WY_OG_ENV=\"{CODE}/assets/og-env.png\";window.WY_OG_ENVROT=0.3;</script>\n<script src=\"{CODE}/js/main.486390be.js\" defer></script>"
+ "footer": "<script>window.WY_OG_ENV=\"{CODE}/assets/og-env.png\";window.WY_OG_ENVROT=0.3;</script>\n<script src=\"{CODE}/js/main.3999fba8.js\" defer></script>"
 }
